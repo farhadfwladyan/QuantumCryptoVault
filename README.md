@@ -1,4 +1,4 @@
-# QuantumCryptoVault
+ QuantumCryptoVault
 و امضای دیجیتال RSA، AES یک برنامه رمزنگاری پیشرفته با قابلیت رمزنگاری چندلایه
 ✨ امکانات اصلی
 🔒 ۱) رمزنگاری سریع (Fernet)
@@ -107,6 +107,5 @@ python FlowCipher.py
 
 فرهاد فولادیان
 
-HMAC برای بررسی صحت داده
 
 
