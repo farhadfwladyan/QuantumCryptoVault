@@ -97,11 +97,7 @@ AES-256 (CBC Mode)
 
 PBKDF2 (مشتق‌سازی کلید)
 
-نحوه اجرا
-git clone https://github.com/yourusername/FlowCipher.git
-cd FlowCipher
-pip install -r requirements.txt
-python FlowCipher.py
+
 
 👨‍💻 توسعه‌دهنده
 
